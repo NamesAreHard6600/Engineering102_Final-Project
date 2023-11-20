@@ -1,0 +1,50 @@
+Alabama-industry and power plant emissions
+Alaska-wood burning, vehicle emissions, wildfire smoke
+Arizona-vehicle emissions
+Arkansas-vehicle emissions, coal power and industry emissions
+California-vehicle emissions, wildfires, energy production emissions
+Colorado-factories, vehicle emissions, 
+Connecticut-wildfires, industry emissions, waste incinerators
+Delaware-vehicle emissions
+Florida-vehicle emissions, industry emissions, florida man
+Georgia-vehicle emissions, industry emissions, power production emissions
+Hawaii-volcanic activity 
+Idaho-wildfires, industry emissions
+Illinois-vehicle emissions
+Indiana-vehicle emissions, industry emissions
+Iowa-vehicle emissions, factories, wildfires
+Kansas-vehicle emissions, coal mining emissions, factories
+Kentucky-factories, coal usage, power plants
+Louisiana-power plants, forest fires, petroleum and natural gas reserves
+Maine-vehicle emissions
+Maryland-vehicle emissions
+Massachusetts-vehicle emissions, industry emissions
+Michigan-factories, vehicle emissions
+Minnesota-factories, power plants, vehicle emissions
+Mississippi-vehicle emissions
+Missouri-livestock rearing farms
+Montana-wildfires
+Nebraska-vehicle emission, industry/power production
+Nevada-coal-fired power plants, diesel emissions, wildfires
+New Hampshire-wildfires, vehicle emissions
+New Jersey-ozone pollution, industry emissions
+New Mexico-factories, power plants, fertilizers, livestock
+New York-vehicle emissions
+North Carolina-ground level ozone, coal burning energy emissions
+North Dakota-vehicle emissions, coal powered energy plants
+Ohio-oil, gas industry emissions, extraction of raw materials
+Oklahoma-vehicle emissions
+Oregon-wood burning, industry emissions, construction
+Pennsylvania-vehicle emissions, factories
+Rhode Island-vehicle emissions
+South Carolina-coal-fired power plants, diesel emissions, wildfires
+South Dakota-wildfires, weather conditions
+Tennessee-wildfires
+Texas-vehicle emissions, factories
+Utah-vehicle emissions, wood burning 
+Vermont-vehicle emissions, wildfires
+Virginia-power plant emissions, factories
+Washington-wood burning, wildfires, 
+West Virginia-oil and gas industry emissions
+Wisconsin-wildfires
+Wyoming-wildfires, natural gas production emissions
